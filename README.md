@@ -397,3 +397,9 @@ This project provides:
 **Train RL agents to learn optimal autoscaling policies for serverless workflows!** 🎉
 
 ---
+
+## 📄 License
+
+This repository's original code is licensed under the MIT License (see [LICENSE](LICENSE)).
+
+The OpenFaaS code under `openfaas/` is included as Git submodules and remains governed by its own license terms (see `openfaas/faas/LICENSE` and `openfaas/faas-netes/LICENSE` in those submodules).
